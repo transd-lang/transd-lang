@@ -35,8 +35,8 @@ MainModule: {
                     select: ["Name Prefix", "First Name", "Last Name",
                              "Age in Company (Years)", "Salary"]
                     as: [[String(),String(),String(),Double(),Int()]]
-                    where: "\"Age in Company (Years)\" > 30.0 AND 
-                        Salary < 48000"
+                    where: "\"Age in Company (Years)\" > 35.0 AND 
+                        Salary < 43000"
                     sortby: "Salary")
 //-- Print result
                 (for row in rows do (lout row)))
