@@ -5,6 +5,7 @@
 * Static typing
 * Data queries
 * Classes
+* Unicode
 * First-class functions
 * Generics
 * Precise access control for class members
