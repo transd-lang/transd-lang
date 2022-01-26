@@ -1,6 +1,6 @@
 ## Official repository of Transd programming language
 
-##### Full-fledged programming language in two C++ files (20 KLOCs).
+##### Programming language in two C++ files (22 KLOCs).
 
 * Static typing
 * Data queries
