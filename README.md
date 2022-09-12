@@ -1,10 +1,5 @@
-## Official repository of Transd programming language
+# Official repository of Transd programming language
 
-#### Modern programming language in one file.
+## Modern programming language in one file.
 
-* Static typing
-* Data queries
-* Classes
-* Unicode
-* Closures
-* Generics
+Static typing, data queries, classes, Unicode, closures, generics - in one dependency-free executable, or in two-file source code C++ library.
